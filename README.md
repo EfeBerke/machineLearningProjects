@@ -1,53 +1,40 @@
 # Machine Learning Practice & Mini Projects
 
-This repository contains my **machine learning practice labs and mini projects**, primarily based on the **DeepLearning.AI Machine Learning Specialization**, along with additional experiments developed independently while learning.
+This repository contains my machine learning practice labs and mini projects based on the DeepLearning.AI Machine Learning Specialization and additional independent experiments.
 
-The goal of this repository is to build **strong fundamentals** by implementing algorithms from scratch and visualizing their behavior, rather than relying on high-level libraries prematurely.
+The goal is to build strong fundamentals by implementing algorithms from scratch and understanding their mathematical behavior.
 
 ---
 
 ## Contents
 
 - Practice labs following the DeepLearning.AI curriculum
-- Mini projects created alongside the learning process
-- Experiments focused on optimization, numerical computation, and visualization
-
----
-
-## Topics Covered (Current)
-
-- Linear Regression
-- Cost and loss functions
-- Gradient Descent
-- Vectorized numerical computation
-- Visualization of learning dynamics
+- Mini projects developed during the learning process
+- Titanic dataset project: data analysis, preprocessing, and model building...
 
 ---
 
 ## Tools & Libraries
 
-Currently used:
-- **NumPy** – numerical computation and vectorization
-- **Matplotlib** – plotting data, loss curves, and model behavior
-
-Additional libraries will be added as the learning path progresses.
+- NumPy – numerical computation
+- Matplotlib – visualization
+- Pandas – data analysis and preprocessing
+- Scikit-learn – model building and evaluation 
 
 ---
 
 ## Learning Approach
 
-- Algorithms are implemented **from scratch** for clarity
-- Focus on **math–code alignment**
-- Code evolves incrementally as concepts become clearer
+- Implement algorithms from scratch when possible
+- Focus on understanding math and mechanics behind ML
+- Gradually incorporate real datasets and practical workflows
 
-This repository is **learning-oriented**, not production software.
+This repository is learning-focused.
 
 ---
 
 ## How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/EfeBerke/machineLearningProjects.git
-
-
+```bash
+git clone https://github.com/EfeBerke/machineLearningProjects.git
+cd machineLearningProjects

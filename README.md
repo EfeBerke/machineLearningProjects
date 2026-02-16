@@ -37,4 +37,4 @@ This repository is learning-focused.
 
 ```bash
 git clone https://github.com/EfeBerke/machineLearningProjects.git
-cd machineLearningProjects
+
